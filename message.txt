@@ -1,4 +1,4 @@
-Hello! 👋
-This is an automated message sent via WhatsApp using Python and Selenium.
+Hello!
+This is an automated message sent via WhatsApp
 Have a great day!
-pip install webdriver-manager
+
