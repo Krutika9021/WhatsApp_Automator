@@ -92,4 +92,4 @@ This project is for educational purposes only. Use responsibly and respect Whats
 
 ## LICENSE
 
-[MIT License](LICENSE)
+[MIT License](./LICENSE)
